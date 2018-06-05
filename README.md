@@ -1,2 +1,2 @@
-# Hello-World-
-GitHub setup test repo
+# Hello World!
+My first Repo after joining GitHub.
